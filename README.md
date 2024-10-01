@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="600" />
+[![py-thok's GitHub stats](https://github-readme-stats.vercel.app/api?username=py-thok&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **py-thok/py-thok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
