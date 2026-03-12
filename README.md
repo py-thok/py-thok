@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I am an undergraduate student majoring in Information Security at Beijing University of Posts and Telecommunications. You can call me PYthok (/ˈpaɪθɒk/ or /ˈpaɪθoʊk/).
+I am an undergraduate student majoring in Information Security at BUPT. You can call me PYthok (/ˈpaɪθɒk/ or /ˈpaɪθoʊk/).
+
 我是一名来自北京邮电大学的信息安全专业本科生，你可以叫我PYthok（/ˈpaɪθɒk/ 或 /ˈpaɪθoʊk/）。
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="600" />
